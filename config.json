@@ -5,7 +5,7 @@
     "port": 50086,
     "version": "1.21",
 
-    "loginintervalms": 100,
+    "loginintervalms": 1000,
 
     "altening": false,
     "altening_token": "",
