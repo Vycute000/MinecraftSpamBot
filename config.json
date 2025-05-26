@@ -5,12 +5,12 @@
     "port": 50086,
     "version": "1.21",
 
-    "loginintervalms": 1000,
+    "loginintervalms": 100,
 
     "altening": false,
     "altening_token": "",
 
-    "spammessage": "spam",
+    "spammessage": "",
     "spamintervalms": 1500,
 
     "physics": false
